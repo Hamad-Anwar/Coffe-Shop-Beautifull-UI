@@ -37,7 +37,7 @@ To get started with the Coffee app, follow these steps:
 
 ## Contributing
 
-We welcome contributions from the community! If you'd like to contribute to the Coffee app, follow these steps:
+We welcome contributions from the community! If you'd like to contribute to the app, follow these steps:
 
 1. Fork this repository.
 
